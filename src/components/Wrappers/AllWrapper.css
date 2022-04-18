@@ -1,0 +1,15 @@
+.main_div{
+    background-color: antiquewhite;
+    min-height: 100vh;
+}
+
+.container{
+    background-color: aqua;
+    margin: 50px 0px;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 10px;
+}

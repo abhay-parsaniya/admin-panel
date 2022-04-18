@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.signup-form{
+    /* display: flex; */
+    align-items: center;
+    margin: 25px;
+    background-color: rgb(235, 213, 142); 
+    min-height: 650px;
+    padding: 50px 0px;
+}
+
+form{
+    align-items: center;
+    padding: 50px;
+    width: 62.5%;
+    margin: auto;
+    background-color: chartreuse;
+    font-weight: 500;
+    border: 3px solid black;
+    border-radius: 10px;
+}
